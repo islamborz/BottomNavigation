@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_add_home_24"/>
+    <item android:id="@+id/adjust"
+        android:title="Adjust"
+        android:icon="@drawable/baseline_adjust_24"/>
+    <item android:id="@+id/yoq"
+        android:title="yoq"
+        android:icon="@drawable/baseline_adb_24"/>
+    <item android:id="@+id/kim"
+        android:title="kim"
+        android:icon="@drawable/baseline_accessibility_24"/>
+
+</menu>
